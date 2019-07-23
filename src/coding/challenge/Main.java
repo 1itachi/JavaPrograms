@@ -1,5 +1,7 @@
 package coding.challenge;
 
+import java.sql.SQLOutput;
+
 public class Main {
     public static void main(String[] args) {
         //called all challenges one by one
@@ -14,5 +16,10 @@ public class Main {
         MinutesToYearsDays.printYearsAndDays(1051200);
         EqualityPrinter.printEqual(1,1,1);
         System.out.println("Is cat playing? " + PlayingCat.isCatPlaying(true, 41));
+        System.out.println("Number of days & leap year " + NumberofDaysInMonth.getDaysInMonth(2,2000));
+        System.out.println("Is prime? " + PrimeNumber.isPrime(29));
+        PrimeNumber.rangeofPrime(11,5);
+        Sum3And5Challenge.sumNumbers();
+
     }
 }
