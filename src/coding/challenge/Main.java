@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Is prime? " + PrimeNumber.isPrime(29));
         PrimeNumber.rangeofPrime(11,5);
         Sum3And5Challenge.sumNumbers();
+        System.out.println("Sum of odd integers in the range 130 & 999 is "+ SumOddRange.sumOdd(130,999) );
 
     }
 }
