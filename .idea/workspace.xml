@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5305ad7-4305-4a33-914d-c18da9e2ce8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/coding/challenge/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/challenge/MinutesToYearsDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/challenge/PlayingCat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/MinutesToYearsDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/MinutesToYearsDays.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/coding/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,15 +40,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <state relative-caret-position="60">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coding/challenge/PlayingCat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding/challenge/MinutesToYearsDays.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -63,29 +91,6 @@
               <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/DecimalComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/EqualSumChecker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaPrograms.iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -133,8 +138,10 @@
         <option value="$PROJECT_DIR$/src/com/company/OverloadingChallenge.java" />
         <option value="$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java" />
         <option value="$PROJECT_DIR$/src/coding/challenge/AreaCalculator.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/Main.java" />
         <option value="$PROJECT_DIR$/src/coding/challenge/MinutesToYearsDays.java" />
+        <option value="$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java" />
+        <option value="$PROJECT_DIR$/src/coding/challenge/PlayingCat.java" />
+        <option value="$PROJECT_DIR$/src/coding/challenge/Main.java" />
       </list>
     </option>
   </component>
@@ -154,6 +161,11 @@
             <path>
               <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
@@ -302,7 +314,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31805158" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,13 +341,6 @@
     <entry file="file://$PROJECT_DIR$/src/CodingChallenge.java" />
     <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/challenge/MegaBytesConverter.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -431,17 +436,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/challenge/MinutesToYearsDays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/challenge/PlayingCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
