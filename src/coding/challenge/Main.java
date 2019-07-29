@@ -5,7 +5,7 @@ import java.sql.SQLOutput;
 public class Main {
     public static void main(String[] args) {
         //called all challenges one by one
-
+//
 //        SpeedConverter.printConversion(95.75);
 //
 //        MegaBytesConverter.printMegaBytesAndKiloBytes(14000);
@@ -57,10 +57,12 @@ public class Main {
 //        AllFactors.printFactors(30);
 //
 //        System.out.println("Is 6 is a perfect square? "+PerfectNumber.isPerfectNumber(6));
+//
+//        System.out.println("Numbers in words: ");
+//
+//        NumberToWords.numberToWords(1450);
 
-        System.out.println("Numbers in words: ");
-
-        NumberToWords.numberToWords(100);
+        System.out.println("Can pack? " + FlourPack.canPack(0,5,5));
 
 
 

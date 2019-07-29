@@ -2,25 +2,22 @@ package coding.challenge;
 
 public class NumberToWords {
     public static void numberToWords(int num){
+        //1450
         if(num<0){
             System.out.println("Invalid Value");
         }
-        int n = reverse(num);
+        int n = reverse(num); //541
         if(num == 0){
             System.out.println("Zero");
         }
+        int originalDigitCount = getDigitCount(num);
+        int reverseDigitCount = getDigitCount(n);
+        int diffCount = 0;
+        if(reverseDigitCount != originalDigitCount){
+            diffCount = originalDigitCount-reverseDigitCount;
+        }
 
         while(n>0){
-            int originalDigitCount = getDigitCount(num);
-            int reverseDigitCount = getDigitCount(n);
-            int diffCount = 0;
-            if(reverseDigitCount != originalDigitCount){
-                 diffCount = originalDigitCount-reverseDigitCount;
-            }
-            while(diffCount!= 0){
-                System.out.println("Zero");
-                diffCount--;
-            }
 
             int digit = n%10;
             n = n/10;
@@ -56,6 +53,11 @@ public class NumberToWords {
                     System.out.println("Zero");
                     break;
             }
+
+        }
+        while(diffCount!= 0){
+            System.out.println("Zero");
+            diffCount--;
         }
 
     }
