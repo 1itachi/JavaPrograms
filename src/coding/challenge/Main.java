@@ -62,7 +62,11 @@ public class Main {
 //
 //        NumberToWords.numberToWords(1450);
 
-        System.out.println("Can pack? " + FlourPack.canPack(0,5,5));
+//        System.out.println("Can pack? " + FlourPack.canPack(0,5,5));
+
+//          System.out.println("Highest prime factor of 45 "+ largestPrime.getLargestPrime(45));
+
+            DiagonalStar.printSquareStar(5);
 
 
 
