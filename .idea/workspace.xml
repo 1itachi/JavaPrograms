@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5305ad7-4305-4a33-914d-c18da9e2ce8a" name="Default Changelist" comment="Added coding method challenge">
-      <change afterPath="$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coding/challenge/largestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/UserInputChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/FlourPack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/FlourPack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding/challenge/FlourPack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/FlourPack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/coding/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/DiagonalStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,24 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/FirstAndLastSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -49,11 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="270">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/UserInputChallenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -162,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/coding/challenge/largestPrime.java" />
         <option value="$PROJECT_DIR$/src/coding/challenge/Main.java" />
         <option value="$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java" />
+        <option value="$PROJECT_DIR$/src/com/company/UserInputChallenge.java" />
       </list>
     </option>
   </component>
@@ -226,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.UserInputChallenge">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding.challenge.Main" />
       <module name="JavaPrograms" />
@@ -265,19 +263,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.MethodsChallenge" />
-      <module name="JavaPrograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OverloadingChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.OverloadingChallenge" />
       <module name="JavaPrograms" />
@@ -304,13 +289,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserInputChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.UserInputChallenge" />
+      <module name="JavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UserInputChallenge" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.SecondsAndMinutes" />
         <item itemvalue="Application.OverloadingChallenge" />
-        <item itemvalue="Application.MethodsChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +337,7 @@
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13519637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13519637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,7 +346,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924472" visible="true" weight="0.31805158" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924472" visible="true" weight="0.31805158" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924472" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -407,13 +405,6 @@
     <entry file="file://$PROJECT_DIR$/src/coding/challenge/LeapYear/js.java" />
     <entry file="file://$PROJECT_DIR$/JavaPrograms.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -649,8 +640,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/UserInputChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
