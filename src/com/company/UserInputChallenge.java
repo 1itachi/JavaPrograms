@@ -10,11 +10,12 @@ public class UserInputChallenge {
         int sum = 0;
         while(n<=10){
             System.out.println("Enter the number #"+n);
-            int num = scanner.nextInt();
+            int num = scanner.nextInt();     //can use hasNextInt also
             sum = sum+num;
             n++;
         }
 
         System.out.println("Sum of ten numbers "+sum);
+        scanner.close();
     }
 }
