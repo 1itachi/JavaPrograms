@@ -66,7 +66,9 @@ public class Main {
 
 //          System.out.println("Highest prime factor of 45 "+ largestPrime.getLargestPrime(45));
 
-            DiagonalStar.printSquareStar(5);
+//            DiagonalStar.printSquareStar(5);
+
+        InputCalculator.inputThenPrintSumAndAverage();
 
 
 
