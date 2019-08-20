@@ -12,7 +12,6 @@ public class Main {
         byte myByteValue = -128;
         byte myNewByte   = (byte) (myByteValue/2);  //since java converts all assignments to an integer by default
                                                     // so we have to use casting and implicitly mention byte to work with bytes
-
         //short has a width of 16
         short myShortValue = 32767;
 

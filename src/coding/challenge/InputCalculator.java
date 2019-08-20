@@ -6,9 +6,11 @@ public class InputCalculator {
 
     public static void inputThenPrintSumAndAverage(){
         Scanner scanner = new Scanner(System.in);
-        int sum = 0;
+        double sum = 0;
         double avg = 0;
         int counter = 0;
+        int finalAvg = 0;
+        int finalSum = 0;
         boolean flag = true;
 
         while(flag){
@@ -21,11 +23,12 @@ public class InputCalculator {
             }
         }
         if(sum!=0){
-            avg = sum/counter;
-            avg = (int)Math.round(avg);
+            System.out.println(counter);
+            avg = Math.round(sum/counter);
+            finalAvg = (int)avg;
+            finalSum = (int)sum;
+            System.out.println(sum);
         }
-
-
-        System.out.println("SUM = "+ sum+ " AVG = " +avg);
+        System.out.println("SUM = "+ finalSum+ " AVG = " +finalAvg);
     }
 }

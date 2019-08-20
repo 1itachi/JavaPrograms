@@ -2,113 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5305ad7-4305-4a33-914d-c18da9e2ce8a" name="Default Changelist" comment="Added coding method challenge">
-      <change afterPath="$PROJECT_DIR$/src/coding/challenge/InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coding/challenge/PaintJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/META-INF/JavaPrograms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/AllFactors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/AllFactors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/AreaCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/AreaCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/BarkingDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/BarkingDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/DecimalComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/DecimalComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/DiagonalStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/DiagonalStar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/EqualSumChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/EqualSumChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/EqualityPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/EqualityPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/EvenDigitSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/EvenDigitSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/FirstAndLastSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/FirstAndLastSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/FlourPack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/FlourPack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/InputCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/InputCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/LastDigitChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/LastDigitChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/MegaBytesConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/MegaBytesConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/MinutesToYearsDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/MinutesToYearsDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/NumberInWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/NumberInWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/NumberToWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/NumberToWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/NumberofDaysInMonth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/NumberofDaysInMonth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/PerfectNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/PerfectNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/PlayingCat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/PlayingCat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/SharedDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/SharedDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/SpeedConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/SpeedConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Sum3And5Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/Sum3And5Challenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/SumOddRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/SumOddRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/TeenNumberCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/TeenNumberCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/largestPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/largestPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/sumDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/coding/challenge/sumDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/MInMaxUserInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/MInMaxUserInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/MethodsChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/MethodsChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/OverloadingChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/OverloadingChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/SecondsAndMinutes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/SecondsAndMinutes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/UserInputChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaPrograms/com/company/UserInputChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/challenge/InputCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/InputCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/coding/challenge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/UserInputChallenge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MInMaxUserInput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/InputCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/MegaBytesConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/AllFactors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/largestPrime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coding/challenge/PrimeNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="29" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,98 +70,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MethodsChallenge.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/SpeedConverter.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/MegaBytesConverter.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/BarkingDog.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/LeapYear.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/DecimalComparator.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/EqualSumChecker.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/TeenNumberCheck.java" />
-        <option value="$PROJECT_DIR$/src/com/company/OverloadingChallenge.java" />
-        <option value="$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/AreaCalculator.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/MinutesToYearsDays.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/PlayingCat.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/NumberInWord.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/NumberofDaysInMonth.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/PrimeNumber.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/Sum3And5Challenge.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/SumOddRange.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/sumDigits.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/Palindrome.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/FirstAndLast.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/FirstAndLastSum.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/SharedDigit.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/EvenDigitSum.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/LastDigitChecker.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/GreatestCommonDivisor.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/AllFactors.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/PerfectNumber.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/NumberToWords.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/FlourPack.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/largestPrime.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java" />
-        <option value="$PROJECT_DIR$/src/com/company/UserInputChallenge.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MInMaxUserInput.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/Main.java" />
-        <option value="$PROJECT_DIR$/src/coding/challenge/InputCalculator.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1366" />
-    <option name="height" value="768" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPrograms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPrograms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="1PQ7O810QhP0kjTLuQa9hkA0uY3" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -334,387 +202,21 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13519637" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924472" visible="true" weight="0.31805158" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924472" weight="0.39971346" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49924472" weight="0.3295129" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007553" side_tool="true" weight="0.39971346" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295129" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295129" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added coding method challenge" />
     <option name="LAST_COMMIT_MESSAGE" value="Added coding method challenge" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CodingChallenge.java" />
-    <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/LeapYear/js.java" />
-    <entry file="file://$PROJECT_DIR$/JavaPrograms.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MethodsChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/OverloadingChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="85" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/FirstAndLast.java" />
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/LeapYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/NumberInWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/MinutesToYearsDays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/PlayingCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/SharedDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/sumDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/SumOddRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/TeenNumberCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/Sum3And5Challenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/SpeedConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/PerfectNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/NumberToWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="74" column="47" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/NumberofDaysInMonth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/EvenDigitSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/EqualSumChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/BarkingDog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/DecimalComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/GreatestCommonDivisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/FlourPack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/FirstAndLastSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/EqualityPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/LastDigitChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/AreaCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/AllFactors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/largestPrime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="29" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/MegaBytesConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/DiagonalStar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/UserInputChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/SecondsAndMinutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MInMaxUserInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/coding/challenge/InputCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

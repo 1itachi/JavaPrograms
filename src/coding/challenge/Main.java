@@ -1,11 +1,9 @@
 package coding.challenge;
 
-import java.sql.SQLOutput;
-
 public class Main {
     public static void main(String[] args) {
         //called all challenges one by one
-//
+
 //        SpeedConverter.printConversion(95.75);
 //
 //        MegaBytesConverter.printMegaBytesAndKiloBytes(14000);
@@ -61,16 +59,16 @@ public class Main {
 //        System.out.println("Numbers in words: ");
 //
 //        NumberToWords.numberToWords(1450);
-
+//
 //        System.out.println("Can pack? " + FlourPack.canPack(0,5,5));
-
+//
 //          System.out.println("Highest prime factor of 45 "+ largestPrime.getLargestPrime(45));
-
+//
 //            DiagonalStar.printSquareStar(5);
 
-        InputCalculator.inputThenPrintSumAndAverage();
+//        InputCalculator.inputThenPrintSumAndAverage();
 
-
+        PaintJob.getBucketCount(3.4, 2.1, 1.5, 2);
 
     }
 }

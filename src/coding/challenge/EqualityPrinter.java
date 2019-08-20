@@ -1,6 +1,5 @@
 package coding.challenge;
 
-import jdk.swing.interop.SwingInterOpUtils;
 
 public class EqualityPrinter {
     public static void printEqual(int para1, int para2, int para3){
